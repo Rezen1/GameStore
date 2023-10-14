@@ -1,0 +1,174 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    width: 100%;
+    height: 250px;
+    background-color: rgba(0, 194, 255, 1);
+    color: white;
+    border-radius: 20px;
+}
+header:hover { 
+background-color: blue;
+color: white; 
+transition: 0.5s linear;   
+}   
+.knopka {
+text-decoration: none;
+color: black;
+}
+
+nav {
+    padding-top: 50px;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 60px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+}
+br {
+font-size: 100px;    
+}
+.s {
+font-size: 17px;
+
+}
+img {
+top: 270px;
+right: 50px;
+   
+}
+.h2a1 {
+text-align: center;    
+}
+.div1 {
+text-align: center;  
+}
+.gamepad {
+    top: -140px;
+    left: 550px;
+    position: relative;
+}
+.CS2 {
+font-size: 30px;    
+}
+.CS21 {
+    font-size: 20px;
+}
+.cinaCS2 {
+font-size: 30px;    
+}
+.Metro {
+    font-size: 30px;
+}
+.Metro1  {
+font-size: 20px;    
+}
+.cinaMetro {
+font-size: 30px;
+}
+.Call_of_duty {
+ font-size: 30px;   
+}
+.Call_of_duty1 {
+ font-size: 20px;   
+}
+.cinaCall_of_duty {
+font-size: 30px;    
+}
+.buy {
+text-decoration: none;
+background-color: #00C2FF; 
+border-radius: 15px; 
+padding: 10px;
+margin: 10px;
+color: white; 
+display: block ; 
+font-size: 20px;
+}
+.vidgyk1 {
+ font-size: 20px;  
+ position: relative;
+ top: 26px; 
+ margin-left: 5px;  
+}
+.user {
+float: left;
+position: relative;
+margin-top: 5px;
+
+}
+.user2 {
+float: left;
+position: relative;
+top: 15px; 
+margin-right: 5px ;  
+}
+.vidgyk2 {
+ font-size: 20px;     
+}
+.line {
+display: flex;    
+}
+footer {
+background-color: #00C2FF; 
+color: white;  
+padding: 30px;
+border-radius: 20px; 
+font-size: 20px;
+display: flex;
+}
+.left {
+    
+
+}
+li:hover {
+background-color: red;
+color: white; 
+transition: 0.5s linear;   
+}
+.buy:hover {
+background-color: red;
+color: white;
+transition: 0.5s linear;    
+}
+footer:hover {
+background-color: blue;
+color: white; 
+transition: 0.5s linear;   
+}
+.buy2 {
+width: 100px;
+margin: 0 auto;
+}
+
+li:hover a{
+color: white; 
+transition: 0.5s linear;    
+}
+.soc_merezi {
+display: inline-block;
+padding-left: 250px;  
+
+}
+.class1 {
+display: flex; 
+ 
+}
+.insta {
+padding-left: 10px;    
+}
